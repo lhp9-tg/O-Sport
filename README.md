@@ -6,3 +6,4 @@
 - Tailwindcss
 - DaisyUI
 - Sass
+- Vitest
